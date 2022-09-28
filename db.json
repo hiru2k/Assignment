@@ -1,0 +1,42 @@
+{
+  "userList": [
+    {
+      "email": "kevinsilve@gmail.com",
+      "firstName": "Kevin",
+      "lastName": "Silva",
+      "password": "K123#Silva",
+      "id": 6
+    },
+    {
+      "email": "jamesperera@gmail.com",
+      "firstName": "James",
+      "lastName": "Perera",
+      "password": "James123#",
+      "id": 7
+    },
+    {
+      "email": "hannashafa@gmail.com",
+      "firstName": "Hanna",
+      "lastName": "Shafa",
+      "password": "12#Hanna",
+      "id": 8
+    },
+    {
+      "email": "rickgrimes@gmail.com",
+      "firstName": "Rick",
+      "lastName": "Grimes",
+      "password": "Rick12@53",
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
