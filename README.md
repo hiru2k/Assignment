@@ -19,4 +19,5 @@ First Angular Project
     
    
 #RUN THE PROJECT#
+
       ng serve -o
